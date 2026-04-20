@@ -14,7 +14,7 @@ reliability.
 
 ## Print Settings
 
-All parts were printed in black ABS with 4 perimeter walls and 25% infill.
+All parts were printed in black ABS with 4 perimeter walls and 25% infill. Only the focuser base requires supports.
 
 ## Bill of Materials
 
