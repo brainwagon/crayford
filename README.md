@@ -20,6 +20,7 @@ Hardware required beyond the 3D printed parts:
 |------|-----|-------|
 | M3 heat-set inserts | 6 | 4 for the front cap; 2 for the knobs |
 | M3×6 socket head screws or set screws | 2 | Lock the knobs to the drive shaft |
+| Springs, 0.5×6×15mm (0.02″×0.24″×0.59″) | 2 | Press the drive rod against the draw tube; sourced from an [assortment on Amazon](https://www.amazon.com/dp/B09VZH6NS1) |
 | M3×10 socket head screws | 4 | Serve as bearing axles — thread directly into the base |
 | 3×8×3mm bearings | 4 | |
 | 10mm × 3mm aluminum bar, 64mm long | 3 | Cut to length from flat bar stock |
