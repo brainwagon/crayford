@@ -2,11 +2,11 @@
 <svg
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   width="600.0"
-   height="450.0"
+   width="450.0"
+   height="338.0"
 
->
-    <g transform="scale(13.264549851305592, -13.264549851305592)   translate(14.207778367954681,-5.407778267954677)" stroke-width="0.5"  fill="none">
+><g transform="translate(0,338) scale(1,-1)">
+    <g transform="scale(9.963150777202868, -9.963150777202868)   translate(14.707397202306527,-5.907397102306522)" stroke-width="0.5"  fill="none">
        <!-- hidden lines -->
        <g  stroke="rgb(180,180,180)" fill="none" stroke-dasharray="0.5,0.5" >
 
@@ -309,4 +309,4 @@
        </g>
     </g>
     
-</svg>
+</g></svg>
