@@ -9,16 +9,35 @@ design by **aeberbach**:
 All credit for the original design goes to aeberbach. This repository contains
 modified and derivative STEP files adapted for my own telescope build.
 
-## Files
+## Parts
 
-| File | Description |
-|------|-------------|
-| `focuser_base.step` | Main focuser body/base |
-| `front_cap.step` | Front cap for the focuser tube |
-| `pinion_block.step` | Pinion block assembly |
-| `simple_knob.step` | Focus knob |
+### Focuser Base
+![Focuser Base](images/focuser_base.svg)
 
-The `junk/` directory contains various work-in-progress and experimental parts.
+Main focuser body/base — `focuser_base.step`
+
+---
+
+### Front Cap
+![Front Cap](images/front_cap.svg)
+
+Front cap for the focuser tube — `front_cap.step`
+
+---
+
+### Pinion Block
+![Pinion Block](images/pinion_block.svg)
+
+Pinion block assembly — `pinion_block.step`
+
+---
+
+### Simple Knob
+![Simple Knob](images/simple_knob.svg)
+
+Focus knob — `simple_knob.step`
+
+---
 
 ## License
 
