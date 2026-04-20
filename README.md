@@ -6,8 +6,23 @@ design by **aeberbach**:
 > [1.25" Crayford Focuser for Telescopes](https://www.printables.com/model/125438-125-crayford-focuser-for-telescopes)
 > by aeberbach on Printables.com
 
-All credit for the original design goes to aeberbach. This repository contains
-modified and derivative STEP files adapted for my own telescope build.
+All credit for the original design goes to aeberbach. **For the draw tube design,
+full assembly instructions, and bill of materials for the complete focuser, consult
+the [original Printables page](https://www.printables.com/model/125438-125-crayford-focuser-for-telescopes).**
+The parts here are my modifications, made mostly to simplify assembly and improve
+reliability.
+
+## Bill of Materials
+
+Hardware required beyond the 3D printed parts:
+
+| Item | Qty | Notes |
+|------|-----|-------|
+| M3 heat-set inserts | 6 | 4 for the front cap; 2 for the knobs (or substitute M3 set screws) |
+| M3×10 socket head screws | 4 | Serve as bearing axles — thread directly into the base |
+| 3×8×3mm bearings | 4 | |
+| 10mm × 3mm aluminum bar, 64mm long | 3 | Cut to length from flat bar stock |
+| 10mm × 3mm aluminum bar, 37mm long | 1 | Mounts to front cap |
 
 ## Parts
 
