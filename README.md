@@ -52,6 +52,13 @@ plate.
 
 Pinion block assembly — `pinion_block.step`
 
+**Changes from original:**
+
+The spring recesses have been enlarged to give more clearance for the springs that
+press the 5mm drive rod against the aluminum strip on the draw tube. The corners
+of the block have been slightly rounded, which reduces the sharp overhangs and
+makes the part a little easier to print cleanly.
+
 ---
 
 ### Simple Knob
