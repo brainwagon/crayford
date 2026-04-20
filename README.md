@@ -37,6 +37,14 @@ cap-to-base joint a more durable and repeatable connection.
 
 Front cap for the focuser tube — `front_cap.step`
 
+**Changes from original:**
+
+The countersink holes use the ["Prusa trick"](https://blog.prusa3d.com/print-countersunk-screws-without-supports_52782/)
+— the countersink is modeled as a polygon (rather than a cone) so it bridges cleanly
+without supports. The part is oriented with its visible face flat against the build
+plate, which produces a smooth finished surface for mounting the 37mm × 10mm × 3mm
+plate.
+
 ---
 
 ### Pinion Block
