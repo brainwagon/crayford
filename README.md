@@ -16,6 +16,20 @@ modified and derivative STEP files adapted for my own telescope build.
 
 Main focuser body/base — `focuser_base.step`
 
+**Changes from original:**
+
+The original design uses nylon locknuts to retain the bearing axles, which creates
+thin-walled geometry around the locknut voids that is fragile and prone to breaking
+during assembly. In this version, M3×10 bolts serve directly as the axles, threading
+cleanly into the holes without any additional hardware. Friction alone is sufficient
+to keep them in place — there is no meaningful force trying to back them out during
+normal use. Eliminating the locknut voids allows that section of the print to be
+made thicker and more solid, improving both strength and printability.
+
+The front face (where the front cap attaches) has also been modified to accept
+M3 heat-set inserts rather than threading directly into plastic, giving the
+cap-to-base joint a more durable and repeatable connection.
+
 ---
 
 ### Front Cap
