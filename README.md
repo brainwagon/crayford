@@ -12,6 +12,10 @@ the [original Printables page](https://www.printables.com/model/125438-125-crayf
 The parts here are my modifications, made mostly to simplify assembly and improve
 reliability.
 
+## Print Settings
+
+All parts were printed in black ABS with 4 perimeter walls and 25% infill.
+
 ## Bill of Materials
 
 Hardware required beyond the 3D printed parts:
