@@ -66,6 +66,14 @@ makes the part a little easier to print cleanly.
 
 Focus knob — `simple_knob.step`
 
+**New design** (not derived from original):
+
+The original knobs fit too tightly on the 5mm drive shaft to be practical, so this
+is a clean replacement design. The bore is sized correctly for a 5mm shaft, and the
+knob incorporates a recess for an M3 heat-set insert. Once installed, the insert
+accepts either an M3 set screw or an M3×6 socket head screw to lock the knob to
+the shaft.
+
 ---
 
 ## License
